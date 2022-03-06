@@ -3,7 +3,7 @@
  <h2 align="center">xlc520</h2>
  <p align="center">立志要如山，行道要如水。不如山，不能坚定；不如水，不能曲达。<br/>
 Aspire to be like a mountain and walk like water. Not as firm as a mountain; Not as good as water, not quda.
-</p>
+ </p>
 </p>
   <p align="center">
     <a href="https://github.com/xlc520/xlc520/actions">
@@ -30,7 +30,9 @@ Aspire to be like a mountain and walk like water. Not as firm as a mountain; Not
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 </p>
-
+<p align="center"> 
+  您是第<img src="https://profile-counter.glitch.me/xlc520/count.svg" />位访问者
+</p>
 
 ---
 
