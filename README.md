@@ -1,6 +1,6 @@
 <p align="center">
  <img width="200px" src="https://avatars.githubusercontent.com/u/56480807?s=400&u=35fd0849b4836090297776ba863242a2267690ac&v=4"  alt="GitHub Readme Stats" />
-    <img src="https://camo.githubusercontent.com/a5c7c7397871b9348b88302ac5cd56ddbf8774b3/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73792d7265636f7264732f73746174696366696c65406d61737465722f696d616765732f3230323030372f6875616a692e676966">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://camo.githubusercontent.com/a5c7c7397871b9348b88302ac5cd56ddbf8774b3/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73792d7265636f7264732f73746174696366696c65406d61737465722f696d616765732f3230323030372f6875616a692e676966">
  <h2 align="center">xlc520</h2>
  <p align="center">立志要如山，行道要如水。不如山，不能坚定；不如水，不能曲达。<br/>
 Aspire to be like a mountain and walk like water. Not as firm as a mountain; Not as good as water, not quda.
@@ -90,11 +90,7 @@ Aspire to be like a mountain and walk like water. Not as firm as a mountain; Not
 - 💬 Ask me about something.
 - 📫 How to reach me: GitHub
 
-<img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF">
-
-
-
-💪 正在学习: 
+💪 **正在学习:** 
 
 &emsp;&emsp;
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
@@ -106,14 +102,14 @@ Aspire to be like a mountain and walk like water. Not as firm as a mountain; Not
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
 
-🧠 计划学习:
+🧠 **计划学习:**
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=style=flat-square&logo=jquery&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
 ![Shell Script](https://img.shields.io/badge/shell_script-%4285F4.svg?style=style=flat-square&logo=gnu-bash&logoColor=white)
 
-🧰 常用的工具:
+🧰 **常用的工具:**
 
 &emsp;&emsp; 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
@@ -193,3 +189,4 @@ Aspire to be like a mountain and walk like water. Not as firm as a mountain; Not
 
 ![image-20220213212227234](https://cdn.jsdelivr.net/gh/xlc520/MyImage/MdImg/image-20220213212227234.png)
 
+<img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF">
