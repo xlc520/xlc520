@@ -31,7 +31,7 @@ Aspire to be like a mountain and walk like water. Not as firm as a mountain; Not
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 </p>
-<table>
+<table align="center">
   <tbody>
     <tr valign="top">
         <td width="25%" align="center">
@@ -76,6 +76,7 @@ Aspire to be like a mountain and walk like water. Not as firm as a mountain; Not
 </p>
 
 
+
 ---
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h2>
@@ -89,7 +90,7 @@ Aspire to be like a mountain and walk like water. Not as firm as a mountain; Not
 - 💬 Ask me about something.
 - 📫 How to reach me: GitHub
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+<img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF">
 
 
 
