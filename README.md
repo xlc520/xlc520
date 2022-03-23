@@ -189,4 +189,6 @@ Aspire to be like a mountain and walk like water. Not as firm as a mountain; Not
 
 ![image-20220213212227234](https://cdn.jsdelivr.net/gh/xlc520/MyImage/MdImg/image-20220213212227234.png)
 
+<p align="center">
 <img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF">
+</p>
