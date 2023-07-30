@@ -145,7 +145,7 @@ Aspire to be like a mountain and walk like water. Not as firm as a mountain; Not
 
 <div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=xlc520&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=xlc520&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=xlc520&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> -->
 
 ## StudyNote
 
@@ -188,8 +188,11 @@ Aspire to be like a mountain and walk like water. Not as firm as a mountain; Not
 </a>
 
 
-<p>
-<iframe style="width: 100%; height: 300px;" src="https://skyline.github.com/xlc520/2022" frameborder="0"></iframe>
+<p align="center">
+<iframe style="width:320px;height:100%;" 
+src="https://skyline.github.com/xlc520/2022" 
+frameborder="1" scrolling="yes" width="100%" height="320">
+</iframe>
 </p>
 
 ## Star History
