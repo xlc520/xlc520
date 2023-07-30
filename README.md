@@ -1,7 +1,9 @@
+![](assets/Bottom_up.svg)
+
 <p align="center">
  <img width="200px" src="https://avatars.githubusercontent.com/u/56480807?s=400&u=35fd0849b4836090297776ba863242a2267690ac&v=4"  alt="GitHub Readme Stats" />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://camo.githubusercontent.com/a5c7c7397871b9348b88302ac5cd56ddbf8774b3/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73792d7265636f7264732f73746174696366696c65406d61737465722f696d616765732f3230323030372f6875616a692e676966">
- <h2 align="center">xlc520</h2>
+ <h1 align="center">xlc520</h1>
  <p align="center">立志要如山，行道要如水。不如山，不能坚定；不如水，不能曲达。<br/>
 Aspire to be like a mountain and walk like water. Not as firm as a mountain; Not as good as water, not quda.
  </p>
@@ -154,6 +156,12 @@ Aspire to be like a mountain and walk like water. Not as firm as a mountain; Not
 [https://git.xulc.workers.dev/](https://git.xulc.workers.dev/)
 
 
+## 📈GitHub stats
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=xlc520" alt="Flag Counter">
+</p>
+
 <a href="https://github.com/xlc520/xlc520">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=xlc520&count_private=true&show_icons=true" />
 </a>
@@ -161,7 +169,6 @@ Aspire to be like a mountain and walk like water. Not as firm as a mountain; Not
 <a href="https://github.com/xlc520/xlc520">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xlc520" />
 </a>
-
 
 
 <a href="https://github.com/xlc520/xlc520.github.io">
@@ -180,8 +187,27 @@ Aspire to be like a mountain and walk like water. Not as firm as a mountain; Not
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xlc520&repo=MyImage&show_owner=true" />
 </a>
 
-<p align="center">
-    <a href="https://skyline.github.com/xlc520/2021">
-      <img alt="Tests Passing" src="https://skyline.github.com/xlc520/2021.png" />
-    </a>
+
+<p>
+<iframe style="width: 100%; height: 300px;" src="https://skyline.github.com/xlc520/2022" frameborder="0"></iframe>
 </p>
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=xlc520/xlc520.github.io&type=Date)](https://star-history.com/#xlc520/xlc520.github.io&Date)
+
+
+## Thanks for visiting :heart:
+counting of visitors to this page in this section started from 2023-7-30-13:14:00
+<p align="center">
+<a href="https://info.flagcounter.com/JYgQ"><img src="https://s11.flagcounter.com/countxl/JYgQ/bg_FFFFFF/txt_000000/border_CCCCCC/columns_6/maxflags_30/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+</p>
+
+## Profile Views
+counting of visitors to this page in this section started from 2023-7-30-13:14:00
+<p align="center">
+ <img alt="Profile Views" src="https://moe-counter.glitch.me/get/@xlc520.github.readme" />
+</p>
+
+![](assets/Bottom_down.svg)
+
